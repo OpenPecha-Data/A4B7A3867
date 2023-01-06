@@ -1,0 +1,27 @@
+segment_sources:
+  I9BD80B72:
+    type: origin_type
+    relation: translation
+    base: A284
+    lang: en
+  I0C276155:
+    type: origin_type
+    relation: translation
+    base: 40D6
+    lang: bo
+segment_pairs:
+  cf6a4945842c4c9191d64475b1d2b56f:
+    I9BD80B72: 8b2d924a5b6449c6871a36de1b1933a0
+    I0C276155: 59440430de864e5cbcb18e6e2f605b50
+  046ddeedd517493f96b6cc5ede79ca35:
+    I9BD80B72: e6cfa535d68641a68876798da0893827
+    I0C276155: 75d1b1233272428984e32e4c96ce6252
+  9bb8d88ab2b0474bbfd4df850f40545c:
+    I9BD80B72: bd8f751e89884976aedb32ee050a019e
+    I0C276155: 7e7dc0b96b1c48209f83d4cbff4e677d
+  94666b1bb4b74d4abe43bdaabe6461b7:
+    I9BD80B72: b15454a2759d4633967d885634921e63
+    I0C276155: 2b43dc637d454dbf9d11339e1a7e631c
+  66dd252fdb804d439022bb234efa1a24:
+    I9BD80B72: e5b81913082c4e1ca3b8b311e85919f7
+    I0C276155: 5208f91e48dc48d696b437ddf8fd2046
